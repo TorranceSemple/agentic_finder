@@ -6,3 +6,9 @@ venv/
 env
 functions/__pycache__
 __pycache__
+venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+venv
