@@ -1,3 +1,3 @@
 MAX_CHARS = 10000
-WORKING_DIR = "./calculator"
+WORKING_DIR = "backend/temp"
 MAX_ITERS = 20
